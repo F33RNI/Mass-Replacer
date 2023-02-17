@@ -1,0 +1,42 @@
+[
+  {
+    "from": "ftbic:tin_ore",
+    "to": "mekanism:tin_ore"
+  },
+  {
+    "from": "ftbic:deepslate_tin_ore",
+    "to": "mekanism:deepslate_tin_ore"
+  },
+  {
+    "from": "ftbic:lead_ore",
+    "to": "mekanism:lead_ore"
+  },
+  {
+    "from": "ftbic:deepslate_lead_ore",
+    "to": "mekanism:deepslate_lead_ore"
+  },
+  {
+    "from": "ftbic:uranium_ore",
+    "to": "mekanism:uranium_ore"
+  },
+  {
+    "from": "ftbic:deepslate_uranium_ore",
+    "to": "mekanism:deepslate_uranium_ore"
+  },
+  {
+    "from": "ftbic:iridium_ore",
+    "to": "ic2:silver_ore"
+  },
+  {
+    "from": "ftbic:deepslate_iridium_ore",
+    "to": "ic2:deepslate_silver_ore"
+  },
+  {
+    "from": "ftbic:aluminum_ore",
+    "to": "ic2:aluminium_ore_nether"
+  },
+  {
+    "from": "ftbic:deepslate_aluminum_ore",
+    "to": "ic2:aluminium_ore_nether"
+  }
+]
